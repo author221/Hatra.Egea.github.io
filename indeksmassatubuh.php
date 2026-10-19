@@ -1,5 +1,5 @@
 <?php
-$berat = 65; // dalam kg
+$berat = 70; // dalam kg
 $tinggi = 1.70; // dalam meter
 
 $bmi = $berat / ($tinggi * $tinggi);

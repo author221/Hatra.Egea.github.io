@@ -7,7 +7,7 @@ $totalBayar = $totalBelanja - $besarDiskon;
 
 if ($totalBelanja >= 500000) {
     $persenDiskon = 0.15;
-} elseif ($totalBelanja >= 200000) {
+} elseif ($totalBelanja  >=200000) {
     $persenDiskon = 0.10;
 }
 
